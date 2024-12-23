@@ -2,11 +2,11 @@
 
 Welcome to my portfolio website repository! This project showcases professional journey, skills, and accomplishments. It is built using Bootstrap to ensure a responsive and visually appealing design.
 
-Overview
+# Overview
 
 This portfolio website serves as a personal space to highlight background, skills, and work. It is designed to provide a seamless user experience across all devices.
 
-Features
+# Features
 
 Responsive Design: Built with Bootstrap for compatibility across devices.
 
@@ -14,7 +14,7 @@ Interactive Sections: Smooth scrolling and navigation.
 
 Customizable: Easy to update content and styles.
 
-Technologies Used
+ # Technologies Used
 
 HTML5
 
@@ -24,7 +24,7 @@ Bootstrap 5
 
 JavaScript
 
-Sections
+# Sections
 
 1. Home
 
